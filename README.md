@@ -13,9 +13,9 @@
 <h4>② 通过APK文件安装Via浏览器，进入浏览器的设置——通用，点击"导入数据"，选择①中下载的TXT结尾的配置文件</h4>
 <img src="https://user-images.githubusercontent.com/65644725/201101417-d5872c80-1f61-42a5-bac3-49f76bbce37a.jpg" style="width:300px"/>
 <br/>
-<h4>③ 设置中主页设为网页——http://app.nuaa.edu.cn/app/hasNoPermission<br/>，且进入该页，点击三条杠，长按"添加书签"即可发送到桌面</h4>
+<h4>③ 设置中主页设为网页——http://app.nuaa.edu.cn/app/hasNoPermission<br/>，且进入该页，登录南航账号（网页套未混淆JS，无需担心安全问题，源码可查）</h4>
 <img src="https://user-images.githubusercontent.com/65644725/201096455-f8531316-e2c4-4a30-bfc0-57bde9d105d8.png" style="width:300px"/>
-<h4>④ 👆发送到桌面的快捷方式默认图标是个"i"，发送之前点击图标可更改，选择①中下的PNG文件即可换南航LOGO</h4>
+<h4>④ 👆切记等进入健康码界面后，再点击三条杠，长按"添加书签"即可发送到桌面，发送到桌面的快捷方式默认图标是个"i"，发送之前点击图标可更改，选择①中下的PNG文件即可换南航LOGO</h4>
 <br/>
 <h2>4. 完</h2>
 <h5>如果页面不好返回，长按中间的🏠HOME图标即可回到主页，此前已将主页设为查码页。<br/><br/>之前试过不同方案，用Via是最方便的。感谢<a href="https://github.com/tuyafeng/Via">Via</a></h5>
